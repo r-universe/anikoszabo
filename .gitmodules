@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multiCA"]
+	path = multiCA
+	url = https://github.com/anikoszabo/multica
+	shallow = true
+	registered = true
