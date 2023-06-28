@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CorrBin"]
 	path = CorrBin
 	url = https://github.com/cran/CorrBin
-	shallow = true
-	registered = true
 [submodule "multiCA"]
 	path = multiCA
 	url = https://github.com/anikoszabo/multica
-	shallow = true
-	registered = true
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/cran/Oncotree
-	shallow = true
-	registered = true
