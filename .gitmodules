@@ -5,9 +5,9 @@
 [submodule "CorrBin"]
 	path = CorrBin
 	url = https://github.com/cran/CorrBin
-[submodule "multiCA"]
-	path = multiCA
-	url = https://github.com/anikoszabo/multica
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/cran/Oncotree
+[submodule "multiCA"]
+	path = multiCA
+	url = https://github.com/anikoszabo/multica
