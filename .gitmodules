@@ -7,7 +7,7 @@
 	url = https://github.com/cran/CorrBin
 [submodule "Oncotree"]
 	path = Oncotree
-	url = https://github.com/cran/Oncotree
+	url = https://github.com/anikoszabo/oncotree
 [submodule "multiCA"]
 	path = multiCA
 	url = https://github.com/anikoszabo/multica
