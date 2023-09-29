@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CorrBin"]
 	path = CorrBin
-	url = https://github.com/cran/CorrBin
+	url = https://github.com/anikoszabo/corrbin
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/anikoszabo/oncotree
